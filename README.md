@@ -1,4 +1,4 @@
-# Book-Reccommender
+# Book-Recommender
 Collaborative Filtering Based Recommender System using Python
 
 Provides recommendation based on users rating on book
