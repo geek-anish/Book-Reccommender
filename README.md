@@ -3,7 +3,7 @@ Collaborative Filtering Based Recommender System using Python
 
 Provides recommendation based on users rating on book
 
-Also used Popularity based recommendation technique to display 50 popular books from dataset
+Used Popularity based recommendation technique to display 50 popular books with highest average rating (we consider only those books with minimum of 250 votes)
 
 # Screenshots
 
